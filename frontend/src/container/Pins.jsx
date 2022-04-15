@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 
@@ -26,16 +25,3 @@ const Pins = ({ user }) => {
 };
 
 export default Pins;
-=======
-
-
-const Pins = () => {
-    return (
-        <div className='header'>
-            <span className='title'>Pins Page</span>
-        </div>
-    )
-}
-
-export default Pins
->>>>>>> 51ba354fc45f262964a58c35c25d6a2e3bd1d0cf
